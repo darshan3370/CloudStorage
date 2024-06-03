@@ -1,0 +1,2 @@
+Hello!
+I am writing into a file using BufferedOutputStream.
