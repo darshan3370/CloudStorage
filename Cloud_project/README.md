@@ -1,10 +1,3 @@
-# Concurrent Programming Project
-
-# Team : 05
-
-# 1. Vinay Panchal				 (1001990785)
-# 2. Darshan Subodhbhai Savaliya	 (1002030998)
-
 
 ## Cloud Storage Application
 
